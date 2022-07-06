@@ -17,6 +17,7 @@ public class CenterFlame : MonoBehaviour
     {
         if(!musicStart){
 			Debug.Log("veeeeeeeery hungry");
+			Debug.Log("veeeeeeeery hungry");
 
             if (collision.CompareTag("Note"))
             {
