@@ -17,8 +17,7 @@ public class CenterFlame : MonoBehaviour
     {
         if(!musicStart){
 			Debug.Log("very hungry");
-            for (int i = 0; i < 5; i++)
-		    	Debug.Log("very very hungry");
+
             if (collision.CompareTag("Note"))
             {
                 myAudio.Play();
