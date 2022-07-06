@@ -16,7 +16,7 @@ public class CenterFlame : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(!musicStart){
-			Debug.Log("very hungry");
+			Debug.Log("veeeeeeeery hungry");
 
             if (collision.CompareTag("Note"))
             {
