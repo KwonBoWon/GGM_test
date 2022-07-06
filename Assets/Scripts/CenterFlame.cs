@@ -26,6 +26,12 @@ public class CenterFlame : MonoBehaviour
 
     void Update()
     {
-        
+        Debug.Log("Git Test");
+        Debug.Log("Git Test");
+        Debug.Log("Git Test");
+        Debug.Log("Git Test");
+        Debug.Log("Git Test");
+        Debug.Log("Git Test");
+        Debug.Log("Git Test");
     }
 }
