@@ -15,6 +15,6 @@ public class Note : MonoBehaviour
     void Update()
     {
         transform.localPosition += Vector3.right * noteSpeed*Time.deltaTime;
-        
+        Debug.Log("ddddddddddd");
     }
 }
